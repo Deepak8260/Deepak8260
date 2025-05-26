@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Deepak</h1>
-<h3 align="center">🚀 An Emerging Data Scientist from India | Python Enthusiast | AI Explorer</h3>
+<h3 align="center">An Emerging Data Scientist from India | Python Enthusiast | AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+about+Data+Science;Lifelong+learner+and+AI+enthusiast;Sharing+my+Python+journey+here+🧠" alt="Typing SVG" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### GitHub Stats & Streaks
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak8260&theme=tokyonight" alt="Streak Stats" />
@@ -74,7 +74,7 @@
 
 ---
 
-### 💬 Quote to Remember
+### Quote to Remember
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
