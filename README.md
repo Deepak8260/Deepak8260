@@ -16,7 +16,7 @@
 - 🌱 Currently learning: **Machine Learning, Deep Learning, Data Analysis**
 - 💡 Exploring: **Python, Pandas, NumPy, Scikit-learn, Matplotlib, SQL**
 - 👨‍💻 All my Data Science projects are available at: [Kumar Projects](https://github.com/Deepak8260/Kumar-Projects)
-- 📫 How to reach me: **kd.deepak8260@gmail.com**
+- 📫 How to reach me: **deepakkmohanty.ds@gmail.com**
 - ⚡ Fun fact: I believe **“Learning never stops.”** Every dataset has a story waiting to be discovered.
 
 ---
